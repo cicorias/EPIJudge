@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "epi_judge_python",
+    "epi_judge_python/test_framework"
+  ],
+  "python.pythonPath": ".venv/bin/python"
+}
